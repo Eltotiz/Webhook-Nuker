@@ -70,3 +70,5 @@ for _ in itertools.repeat(None, num):
     response = webhook.execute()
     
     print("Ataque enviado.")
+
+https://discord.com/api/webhooks/940253626423722034/sgtkdPAn6CPuIeedD5zzBlBXiNnDD-iHWhyaeljL-YQqj2LKavAiBLcpe_iXfAjDbm7d
